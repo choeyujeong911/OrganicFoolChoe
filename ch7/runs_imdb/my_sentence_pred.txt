@@ -1,0 +1,1 @@
+'C:/Users/KYH/Desktop/딥러닝프로그래밍/행복해.txt...' → pred=1 (p(pos)=0.6086)
