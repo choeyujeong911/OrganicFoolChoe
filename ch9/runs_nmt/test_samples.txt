@@ -1,0 +1,22 @@
+[TEST] sacreBLEU = 91.39
+
+- EN : Do you understand this lesson ?
+ REF: Comprends-tu cette leçon ?
+ HYP: Comprends-tu cette leçon ?
+
+- EN : They are playing football .
+ REF: Ils jouent au football .
+ HYP: jouent au football .
+
+- EN : See you tomorrow .
+ REF: À demain .
+ HYP: À demain .
+
+- EN : I like music and books .
+ REF: J'aime la musique et les livres .
+ HYP: J'aime la musique et les livres .
+
+- EN : The weather is good today .
+ REF: Il fait beau aujourd'hui .
+ HYP: Il fait beau aujourd'hui .
+
