@@ -359,8 +359,8 @@ def run_gen_adain_stub(args):
 def parse_args():
     p = argparse.ArgumentParser()
     p.add_argument("--mode", type=str, choices=["train","gen"], default="train")
-    p.add_argument("--content", type=str, default="/home/choe/Downloads/picasso.jpg")
-    p.add_argument("--style", type=str, default="/home/choe/Downloads/ref.jpg")
+    p.add_argument("--content", type=str, default="./picasso.jpg")
+    p.add_argument("--style", type=str, default="./ref.jpg")
     p.add_argument("--size", type=int, default=512, help="짧은 변 기준 리사이즈")
     p.add_argument("--steps", type=int, default=500)
     p.add_argument("--alpha", type=float, default=1.0)
