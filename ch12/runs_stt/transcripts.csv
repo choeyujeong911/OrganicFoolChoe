@@ -1,0 +1,2 @@
+wav_path,duration_sec,mode,transcript
+data/train_wav/cvko_01.wav,7.776,greedy,
