@@ -1,11 +1,6 @@
 wav_path,ref,hyp,cer,wer
-data/val_wav/cvko_47.wav,그리고 부끄럽지만 않으면 어젯밤 일을 아버지에게 자랑하고 싶었다.,,1.0,1.0
-data/val_wav/cvko_46.wav,그리고 그 커다란 눈을 둥그렇게 떴다.,,1.0,1.0
-data/val_wav/cvko_49.wav,나오는 줄 모르고 이런 말을 하고도 가슴이 선뜩하였다.,,1.0,1.0
-data/val_wav/cvko_43.wav,"어리석은 자는 멀리서 행복을 찾고, 현명한 자는 자신의 발치에서 행복을 키워간다.",,1.0,1.0
-data/val_wav/cvko_41.wav,무어가 무언지 분간할 수 없는 나는 이렇게 물었다.,,1.0,1.0
-data/val_wav/cvko_42.wav,아직 대문은 걸린 채 그대로 있었다.,,1.0,1.0
-data/val_wav/cvko_44.wav,즐겁고 재미있는 콘텐츠를 만들 작가를 모집합니다.,,1.0,1.0
-data/val_wav/cvko_50.wav,저 뒤에 동영상으로 주암동 사건 개요가 나올 겁니다.,,1.0,1.0
-data/val_wav/cvko_48.wav,부르짖으며 발길로 벽을 걷어차고 일어났다.,,1.0,1.0
-data/val_wav/cvko_45.wav,동화가 마주 가서 어머니의 머리에서 함지박을 받아 들고 뛰어왔다.,,1.0,1.0
+data/val_wav/3.wav,It's power of nature.,,1.0,1.0
+data/val_wav/2.wav,It's a lot about the nature and the power of [OVERLAP/]nature. [/OVERLAP].,,1.0,1.0
+data/val_wav/1.wav,"When you have the time, do it. [OVERLAP/]because[/OVERLAP] it's you know, it's.[N]",,1.0,1.0
+data/val_wav/5.wav,"Ah, yeah. The [OVERLAP/]black beach. Yeah. [/OVERLAP]yeah.[OVERLAP/] it's also[/OVERLAP] yeah call there's.[N]",,1.0,1.0
+data/val_wav/4.wav,"You know you know I before watched the star war, have a part in there, [OVERLAP/]remember [/OVERLAP]this, how to say.[N]",,1.0,1.0

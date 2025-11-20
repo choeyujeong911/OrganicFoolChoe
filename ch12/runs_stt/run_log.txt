@@ -18,3 +18,13 @@ epoch 7, loss 41.1529
 epoch 8, loss 39.2552
 epoch 9, loss 38.6613
 epoch 10, loss 38.5528
+epoch 1, loss 78.9759
+epoch 2, loss 78.8864
+epoch 3, loss 77.9607
+epoch 4, loss 75.8184
+epoch 5, loss 72.4045
+epoch 6, loss 67.7916
+epoch 7, loss 62.6841
+epoch 8, loss 58.3297
+epoch 9, loss 55.7227
+epoch 10, loss 54.9169
